@@ -256,7 +256,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or discussions:
 - Open an issue on GitHub
-- Contact: [Your Email/Handle]
+- Contact: +201040922321
 
 ---
 
@@ -265,5 +265,6 @@ For questions, issues, or discussions:
 ### 🧪 *Precision Tools for Neural Exploration*
 
 **Made with** ❤️ **and** 🧠
+
 
 </div>
